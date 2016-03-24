@@ -11,8 +11,7 @@ This might work on
  * FreeBSD
  * OpenBSD
  * Linux
- * Win32 (with Cygwin)
-
  
+
  
  # Who knows right ? ... who knows.
